@@ -45,7 +45,7 @@ int main(int argc, char *argv[])
 
     return 0;
 }
-//
+// Function that opens a file, reads and prints the contents, and closes file.
 int printFile(char filename[50])
 {
 
