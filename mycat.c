@@ -1,6 +1,5 @@
 /*PROGRAM: mycat.c
  * AUTHOR: Omar Castorena
- * COURSE: CS469 - Distributed Systems
  * DESCRIPTION: This program opens the file(s) specified in the arguments and displays the contents in the terminal.
  */
 
